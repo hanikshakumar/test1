@@ -1,1 +1,1 @@
-print("first file in this reposito ry")
+print("first file in this repository")
